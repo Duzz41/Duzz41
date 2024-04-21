@@ -1,4 +1,4 @@
-![Wndern Wndern Mascot GIF](https://tenor.com/view/wndern-wndern-mascot-wndern-logo-wndern-gif-the-god-level-wndern-gif-13810123554039899331)
+![](https://tenor.com/tr/view/wndern-wndern-mascot-wndern-logo-wndern-gif-the-god-level-wndern-gif-13810123554039899331)
 
 ### Hi everyone, I'm Osman :wave:
 
