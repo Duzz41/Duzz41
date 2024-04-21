@@ -1,16 +1,40 @@
-### Hi there 👋
+![](https://tenor.com/search/wndern-gifs)
 
-<!--
-**Duzz41/Duzz41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi everyone, I'm Yusuf :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Game Developer | Digital Game Design Bachelor
+
+#### Reach out to me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/osman-sisman/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/osmann_41/)
+
+---
+
+### Tech I use
+
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-black?style=flat-square&logo=unrealengine)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+<details>
+<summary> :bulb: GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Duzz41&theme=radical">
+</details>
+
+<details>
+<summary> :bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duzz41&layout=compact">
+</details>
+
+---
+
+#### Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/osman-sisman/)
+|
+[Instagram](https://www.instagram.com/osmann_41/)
