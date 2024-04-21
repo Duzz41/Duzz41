@@ -1,4 +1,4 @@
-![]([https://tenor.com/search/wndern-gifs](https://tenor.com/view/wndern-wndern-mascot-wndern-logo-wndern-gif-the-god-level-wndern-gif-13810123554039899331))
+![]((https://tenor.com/view/wndern-wndern-mascot-wndern-logo-wndern-gif-the-god-level-wndern-gif-13810123554039899331))
 
 
 ### Hi everyone, I'm Osman :wave:
